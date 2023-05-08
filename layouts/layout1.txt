@@ -5,6 +5,13 @@
 [lctr]>[lwin]
 [rctr]>[rwin]
 [del]>[tab]
+[ent]>[del]
+[lalt]>[lctr]
+[rwin]>[rctr]
+[home]>[fn2s]
+[pgup]>[ralt]
+[end]>[esc]
+[pgdn]>[ent]
 [pgup]>[lalt]
 
 <keypad>
@@ -12,5 +19,9 @@
 <function1>
 
 <function2>
+[j]>[left]
+[i]>[down]
+[k]>[up]
+[l]>[rght]
 
 <function3>
