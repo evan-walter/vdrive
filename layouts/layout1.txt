@@ -5,7 +5,7 @@
 [lctr]>[lwin]
 [rctr]>[rwin]
 [del]>[tab]
-[ent]>[del]
+[ent]>[bspc]
 [lalt]>[lctr]
 [rwin]>[rctr]
 [home]>[fn2s]
