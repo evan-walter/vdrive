@@ -1,4 +1,11 @@
 <base>
+[lfn]>[pgup]
+[rfn]>[pgdn]
+[bspc]>[spc]
+[lctr]>[lwin]
+[rctr]>[rwin]
+[del]>[tab]
+[pgup]>[lalt]
 
 <keypad>
 
