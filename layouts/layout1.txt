@@ -20,8 +20,8 @@
 
 <function2>
 [j]>[left]
-[i]>[down]
-[k]>[up]
+[i]>[up]
+[k]>[down]
 [l]>[rght]
 
 <function3>
