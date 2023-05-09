@@ -13,9 +13,6 @@
 [end]>[esc]
 [pgdn]>[ent]
 [pgup]>[lalt]
-{kp}{lshf}>{s9}{lalt}{f}
-{hk1}{lwin}>{s9}{e}
-{hk2}{lwin}>{s9}{tab}
 
 <keypad>
 
