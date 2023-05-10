@@ -13,6 +13,8 @@
 [end]>[esc]
 [pgdn]>[ent]
 [pgup]>[lalt]
+[hyph]>[bsls]
+[bsls]>[hyph]
 
 <keypad>
 
