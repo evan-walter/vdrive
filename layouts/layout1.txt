@@ -13,6 +13,7 @@
 [end]>[esc]
 [pgdn]>[ent]
 [pgup]>[lalt]
+[hk2]>[tab]
 [hyph]>[bsls]
 [bsls]>[hyph]
 
