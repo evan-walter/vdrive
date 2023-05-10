@@ -12,7 +12,7 @@
 [lctr]>[lwin]
 [rctr]>[rwin]
 [del]>[tab]
-[ent]>[rfn]
+[ent]>[fn2s]
 [lalt]>[lctr]
 [rwin]>[rctr]
 [home]>[fn2s]
