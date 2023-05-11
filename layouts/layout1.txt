@@ -2,6 +2,7 @@
 [hk1]>[grav]
 [hk2]>[tab]
 [hk4]>[bspc]
+[kp]>[spc]
 [left]>[obrk]
 [rght]>[9]
 [up]>[0]
