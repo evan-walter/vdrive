@@ -4,10 +4,10 @@
 [hk4]>[layk]
 [kp]>[spc]
 [caps]>[obrk]
-{left}>{s9}{-lshf}{obrk}
-{rght}>{s9}{-lshf}{9}
-{up}>{s9}{-lshf}{0}
-{down}>{s9}{-lshf}{cbrk}
+{left}>{s9}{-lshf}{obrk}{+lshf}
+{rght}>{s9}{-lshf}{9}{+lshf}
+{up}>{s9}{-lshf}{0}{+lshf}
+{down}>{s9}{-lshf}{cbrk}{+lshf}
 [obrk]>[cbrk]
 [lfn]>[home]
 [grav]>[pgup]
