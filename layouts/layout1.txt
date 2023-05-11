@@ -1,7 +1,7 @@
 <base>
 [hk1]>[grav]
 [hk2]>[tab]
-[hk4]>[bspc]
+[hk4]>[layk]
 [kp]>[spc]
 [left]>[obrk]
 [rght]>[9]
