@@ -40,6 +40,9 @@
 [m]>[mute]
 [comm]>[vol-]
 [perd]>[vol+]
+{e}>{s9}{-lwin}{e}{+lwin}
+{r}>{s9}{-lshf}{-lwin}{r}{+lshf}{+lalt}
+{f}>{s9}{-lshf}{-lalt}{f}{+lshf}{+lalt}
 [lfn]>[home]
 [lctr]>[lwin]
 [rctr]>[rwin]
