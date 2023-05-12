@@ -45,7 +45,7 @@
 {f}>{s9}{-lwin}{tab}{+lwin}
 {g}>{s9}{-lwin}{grav}{+lwin}
 {e}>{s9}{-lwin}{e}{+lwin}
-{r}>{s9}{-lshf}{-lwin}{r}{+lshf}{+lalt}
+{r}>{s9}{-lshf}{-lwin}{r}{+lshf}{+lwin}
 [lfn]>[home]
 [lctr]>[lwin]
 [rctr]>[rwin]
