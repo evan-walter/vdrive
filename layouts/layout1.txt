@@ -43,6 +43,7 @@
 {s}>{s9}{-lwin}{s}{+lwin}
 {d}>{s9}{-lshf}{-lalt}{f}{+lshf}{+lalt}
 {f}>{s9}{-lwin}{tab}{+lwin}
+{g}>{s9}{-lwin}{grav}{+lwin}
 {e}>{s9}{-lwin}{e}{+lwin}
 {r}>{s9}{-lshf}{-lwin}{r}{+lshf}{+lalt}
 [lfn]>[home]
